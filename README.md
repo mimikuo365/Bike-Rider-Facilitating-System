@@ -5,7 +5,7 @@ Bike Rider Facilitating System
 ## Summary
 
 This is a final group project of GE1354 -- Introduction to Electronic
-Design at City University of Hong Kong.
+Design at City University of Hong Kong, contributed by KUAN-TING KUO Tianxiao Xu and TSUNG-YU CHEN.
 
 Demo1.mov shows the funtion 1, 3, 4 in "Objectives" (See below).
 Demo2.mov shows the funtion 2 in "Objectives" (See below).
